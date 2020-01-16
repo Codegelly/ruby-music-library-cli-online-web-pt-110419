@@ -1,7 +1,11 @@
 require 'bundler'
+require 'pry'
 Bundler.require
 
 module Concerns
-end
+  module Findable
 
-require_all 'lib'
+  end
+
+
+end
