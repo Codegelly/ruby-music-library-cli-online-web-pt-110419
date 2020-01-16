@@ -7,5 +7,11 @@ module Concerns
 
   end
 
-
+  # module InstanceMethods
+  #
+  # end
+  #
+  # module ClassMethods
+  #
+  # end
 end
